@@ -11,7 +11,7 @@
  */
 int *heap_to_sorted_array(heap_t *heap, size_t *size)
 {
-    printf("%d", heap->n);
+	printf("%d", heap->n);
 	printf("%ld", *size);
 	return (0);
 }
