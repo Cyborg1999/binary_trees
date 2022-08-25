@@ -48,3 +48,4 @@ void sata_helper(avl_t **root, int *array, size_t lo, size_t hi)
 		sata_helper(&new, array, middle, hi);
 	}
 }
+
