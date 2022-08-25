@@ -15,4 +15,3 @@ int *heap_to_sorted_array(heap_t *heap, size_t *size)
 	printf("%ld", *size);
 	return (0);
 }
-
